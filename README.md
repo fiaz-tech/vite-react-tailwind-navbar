@@ -33,4 +33,4 @@ It includes mobile and desktop layouts, a hamburger menu toggle, and a clean com
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/fiaz-tech/vite-react-tailwind-navbar
